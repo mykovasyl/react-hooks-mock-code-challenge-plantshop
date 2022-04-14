@@ -41,6 +41,48 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "https://i.pinimg.com/474x/59/95/18/5995186a3da28eef8906f5d3878c76c2.jpg",
+      "name": "Baby",
+      "price": "12.99",
+      "id": 8
+    },
+    {
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "name": "Roy Scott",
+      "price": "45.99",
+      "id": 9
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/delicious-ramen-japan-600w-1135797380.jpg",
+      "name": "Mykola Vasyl'yev",
+      "price": "25.23",
+      "id": 10
+    },
+    {
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "name": "Up Your Net Worth",
+      "price": "33.33",
+      "id": 11
+    },
+    {
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "name": "Up Your Net Worth",
+      "price": "33.33",
+      "id": 12
+    },
+    {
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "name": "Baby",
+      "price": "0.07",
+      "id": 13
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/delicious-ramen-japan-600w-1135797380.jpg",
+      "name": "Roy Scott",
+      "price": "0.04",
+      "id": 14
     }
   ]
 }
